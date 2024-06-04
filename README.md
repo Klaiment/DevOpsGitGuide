@@ -44,12 +44,12 @@ Arborescence attendue à la suite de l'exercice :
 
 
 # Exercice 3
-Exo 3 Cron ```bash cron.sh```
+-    Exo 3 Cron ```bash cron.sh```
 
 # Exercice 4 Gitpod
 
 ## Step-by-step :
-``` bash
+```
 1 Créer un compte Gitpod.
 2 Installer l'extension Gitpod
 3 CLiquer sur le bouton "Open" apparu à la suite de l'installation de l'extension Gitpod
