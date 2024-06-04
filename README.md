@@ -6,7 +6,6 @@ Autheur : Clément D
 
 1. Cloner le dépot ```git clone https://github.com/Klaiment/DevOpsGitGuide```
 2. ```cd DevOpsGitGuide```
-3. 
 # Execution des scripts
 
 
